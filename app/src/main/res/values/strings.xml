@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">githubuserapp</string>
+    <string name="splash_screen">GitHubUsers</string>
+    <string name="username">Username</string>
+    <string name="name">Name</string>
+    <string name="id">Id</string>
+    <string name="tahu">ID :</string>
+    <string name="followers">Followers :</string>
+    <string name="location">Location</string>
+    <string name="company">Company</string>
+    <string name="repository">repository</string>
+    <string name="following">following</string>
+    <string name="nav1">Followers</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="nav2">Following</string>
+    <string name="toolbar">User</string>
+    <string name="user">Detail User</string>
+    <string name="search">Masukan Username User</string>
+    <string name="gambar_ini_bos">gambar ini bos</string>
+    <string name="favorit">Favorit</string>
+    <string name="dark">Dark Mode</string>
+    <string name="light">Light Mode</string>
+</resources>
